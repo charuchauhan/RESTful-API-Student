@@ -1,7 +1,5 @@
 ﻿# RESTful-API-Student
 
-# RESTful-API-Student
-
 CRUD operations with REST APIs
 
 ### REST APIs built using
